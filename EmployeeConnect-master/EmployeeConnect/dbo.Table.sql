@@ -1,0 +1,6 @@
+﻿CREATE TABLE Emp (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Name NVARCHAR(100),
+    Address NVARCHAR(255)
+);
+
